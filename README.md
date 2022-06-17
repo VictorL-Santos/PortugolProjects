@@ -18,5 +18,5 @@ Activites
 * Show the Results of the Operation
 
 ### Project structure
-![image prompt](Prompt.PNG)
+![image prompt](Calculator/Prompt.PNG)
 > ![View Code](https://github.com/VictorL-Santos/PortugolProjects/blob/Calculator/CalculatorInPortugol)
