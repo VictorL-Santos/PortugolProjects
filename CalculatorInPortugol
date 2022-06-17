@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Calculator"
 var
     Sm, Mt, Dv, Sb, Md, N1,N2: real
     op, clc: caractere
