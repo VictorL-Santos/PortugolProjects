@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" />
+  <img src="Portugol_logo.png" />
 </p>
 <h1 align="center">Portugol Projects</h1>
 
