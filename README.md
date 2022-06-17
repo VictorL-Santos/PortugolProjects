@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VictorL-Santos/PortugolProjects/blob/Calculator/Portugol_Studio.png?raw=true" />
+  <img src="[https://github.com/VictorL-Santos/PortugolProjects/blob/Calculator/Portugol_Studio.png?raw=true](https://github.com/VictorL-Santos/PortugolProjects/blob/Calculator/Logo.png?raw=true)" />
 </p>
 <h1 align="center">Portugol Projects</h1>
 
