@@ -8,7 +8,7 @@ Auto Taught Activities I made
 Activites
 =================
 <!--ts-->
-   * [Calculator](#led-sequence)
+   * [Calculator](#calculator)
 <!--te-->
 ## Calculator
 **Challenge:**
