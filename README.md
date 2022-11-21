@@ -21,5 +21,5 @@ Activites
 ![image prompt](Calculator/Prompt.PNG)
 >
 <p align="center"> 
-  <a href="https://github.com/VictorL-Santos/PortugolProjects/blob/main/Calculator/CalculatorInPortugol"> <img src="button.png"> </a>
+  <a href="https://github.com/VictorL-Santos/PortugolProjects/blob/main/Calculator/CalculatorInPortugol.alg"> <img src="button.png"> </a>
 </p>
